@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(237, 165, 177);
+}
+
+img {
+	width: 300px;
+}
+
+.exempel {
+	color: rgb(239, 239, 194);
+}
+
+ol > li {
+	font-style: italic;
+}
+
+ul > li:nth-child(even) {
+	background-color: rgb(233, 213, 241);
+}
